@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'OBS-PRUEBA'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F22626E5E09C408180767C9DE432F93B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_894BFEC068D74840A8F52E08BF7E5EA9 }}
           package: .
